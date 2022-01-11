@@ -3,8 +3,8 @@ import { resolve } from 'path'
 
 export default defineConfig({
   title: 'mizutoki UI',
-  favicon: 'https://wongabner.coding.net/p/picgo/d/mdimg/git/raw/master/light.png?download=true',
-  logo: 'https://wongabner.coding.net/p/picgo/d/mdimg/git/raw/master/light.png?download=true',
+  favicon: 'https://wongabner.coding.net/p/picgo/d/mdimg/git/raw/master/mizutokilogo.png?download=true',
+  logo: 'https://wongabner.coding.net/p/picgo/d/mdimg/git/raw/master/mizutokilogo.png?download=true',
   history: {
     type: 'hash'
   },
